@@ -1,15 +1,15 @@
-/*
-    Template Name:  Slider
-    Template URI:   http://en.michaeluno.jp
-    Author:         Michael Uno
-    Author URI:     http://en.michaeluno.jp
-    Description:    Displays Amazon products in a slider.
-    Version:        1.0.0
-    License:        GNU General Public License v2 or later
-    License URI:    http://www.gnu.org/licenses/gpl-2.0.html
-    Tags:           default
-    Text Domain:    amazon-auto-links
-*/
+/**
+ *  Template Name:  Slider Beta
+ *  Template URI:   http://en.michaeluno.jp
+ *  Author:         Michael Uno
+ *  Author URI:     http://en.michaeluno.jp
+ *  Description:    Displays Amazon products in a slider.
+ *  Version:        1.0.0
+ *  License:        GNU General Public License v2 or later
+ *  License URI:    http://www.gnu.org/licenses/gpl-2.0.html
+ *  Tags:           default
+ *  Text Domain:    amazon-auto-links
+ */
 .amazon-products-slider-container {    
     overflow-y: hidden;
 	overflow-x: auto;
@@ -17,8 +17,6 @@
     padding-right: 1em;    
 
 }
-
-
 
 .amazon-products-slider-container a {
 	text-decoration: none;	
